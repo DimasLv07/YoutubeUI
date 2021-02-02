@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9025B1A125C8FE59001D2588 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9025B1A025C8FE59001D2588 /* SettingView.swift */; };
 		90D092E125C7A921008CE169 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D092E025C7A921008CE169 /* AppDelegate.swift */; };
 		90D092E325C7A921008CE169 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D092E225C7A921008CE169 /* SceneDelegate.swift */; };
 		90D092E525C7A921008CE169 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D092E425C7A921008CE169 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9025B1A025C8FE59001D2588 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		90D092DD25C7A921008CE169 /* YoutubeUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoutubeUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90D092E025C7A921008CE169 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90D092E225C7A921008CE169 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				90D092EB25C7A926008CE169 /* LaunchScreen.storyboard */,
 				90D092EE25C7A926008CE169 /* Info.plist */,
 				90D092E825C7A926008CE169 /* Preview Content */,
+				9025B1A025C8FE59001D2588 /* SettingView.swift */,
 			);
 			path = YoutubeUI;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				90D092E125C7A921008CE169 /* AppDelegate.swift in Sources */,
+				9025B1A125C8FE59001D2588 /* SettingView.swift in Sources */,
 				90D092E325C7A921008CE169 /* SceneDelegate.swift in Sources */,
 				90D092E525C7A921008CE169 /* ContentView.swift in Sources */,
 			);
